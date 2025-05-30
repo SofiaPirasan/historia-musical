@@ -142,18 +142,18 @@ footer {
   margin: auto;
 }
 
-.social-icons a {
+.iconos a {
   margin: 0 10px;
   display: inline-block;
 
 }
 
-.social-icons img {
+.iconos img {
   width: 24px;
   height: 24px;
   filter: brightness(0) invert(1);
 }
 
-.social-icons a:hover {
+.iconos a:hover {
   transform: scale(1.2);
 }
