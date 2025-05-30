@@ -4,3 +4,10 @@ p{
 .contexto{
     text-align: center;
 }
+img{
+    width: 400px;
+    height: 100px;
+}
+.contendorimg1{
+    text-align: left;
+}
