@@ -132,7 +132,7 @@ footer {
   background-color: #111;
   color: #fff;
   padding: 20px;
-  text-align: center;  /* CENTRA EL TEXTO */
+  text-align: center; 
 }
 
 .footer-content {
@@ -156,7 +156,7 @@ footer {
 .social-icons img {
   width: 30px;
   height: 30px;
-  filter: brightness(0) invert(1); /* hace los íconos blancos */
+  filter: brightness(0) invert(1); 
   transition: transform 0.3s;
 }
 
