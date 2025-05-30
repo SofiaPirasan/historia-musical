@@ -163,3 +163,34 @@ footer {
 .social-icons a:hover img {
   transform: scale(1.2);
 }
+<<<<<<< HEAD
+=======
+.caja{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+.img {
+    height: 200px;
+    margin-top: 100;
+}
+
+.imm {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.compositor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    text-align: center;
+}
+body{
+    background-color: beige;
+}
+>>>>>>> 9eb7dec19c3817bf91f0648ebf503b1b635fbfd3
